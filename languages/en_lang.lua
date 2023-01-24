@@ -41,4 +41,3 @@ Locales["en_lang"] = {
     available = " will be availible in this garage ",
     returned = " has been brought back to "
 }
-}

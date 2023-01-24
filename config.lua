@@ -1,6 +1,6 @@
 Config = {}
 
-Config.defaultlang = "en_lang"
+Config.defaultlang = "it_lang"
 Config.shopKey = 0x760A9C6F
 Config.optionKey = 0xF1301666
 Config.returnKey = 0xD9D0E1C0
